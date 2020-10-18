@@ -1564,19 +1564,19 @@ header {
     outline: none !important; }
 
 .btn-primary {
-  background: #6787b6;
-  color: #6787b6;
-  border: 2px solid #6787b6; }
-  .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #6787b6 !important;
-    border-color: #6787b6 !important; }
-  .btn-primary.btn-outline {
-    background: transparent;
-    color: #4d4d4d;
-    border: 1px solid #d9d9d9; }
-    .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
       background: #6787b6;
-      color: #fff; }
+      color: #fff;
+      border: 2px solid #6787b6; }
+      .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+        background: #114ba0 !important;
+        border-color: #114ba0 !important; }
+      .btn-primary.btn-outline {
+        background: transparent;
+        color: #4d4d4d;
+        border: 1px solid #d9d9d9; }
+        .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
+          background: #CA82F8;
+          color: #fff; }
 
 .btn-success {
   background: #5cb85c;
